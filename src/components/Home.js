@@ -9,7 +9,7 @@ export const Home = () => {
           <div>I am Frontend Developer.</div>
         </div>
 
-        <div className='h-60 w-60  ring-4 ring-indigo-400 rounded-full bg-red-500'>
+        <div className='h-60 w-60 mt-2 ring-4 ring-indigo-400 rounded-full bg-red-500'>
           <img src={profile} alt='profile' md className='h-full w-full' />
         </div>
         <div>

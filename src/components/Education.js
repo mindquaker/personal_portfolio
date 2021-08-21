@@ -16,7 +16,8 @@ export const Education = () => {
         className='flex
         flex-column'>
         <div
-          className='h-60 w-96 ml-80 border-t-2 border-l-2 border-red-600 cursor-pointer drop-shadow-2xl bg-red-500 p-4 rounded-2xl  mt-20 shadow-2xl '
+          className='h-60 w-96 ml-80 focus:shadow-inner transition ease-in duration-150
+           border-t-2 border-l-2 border-red-600 cursor-pointer drop-shadow-2xl bg-red-500 p-4 rounded-2xl  mt-20 shadow-2xl '
           onClick={() => onClickNjit()}>
           <h2 className='text-md font-bold text-white '>
             New Jersey Institue of Technology, Newark, NJ.
@@ -42,10 +43,10 @@ export const Education = () => {
         {clickNjit ? (
           <div className='h-64 w-96 mt-20  ml-20  drop-shadow-2xl  rounded-2xl   shadow-2xl'>
             <Iframe
-              url='https://www.youtube.com/embed/n-z3m1IrC3s'
+              url='https://www.youtube.com/embed/6yYzLa0Vago'
               display='initial'
               position='relative'
-              className='h-64 w-96  border-red-600  drop-shadow-2xl rounded-2xl'
+              className='h-full w-full border-red-600  drop-shadow-2xl rounded-2xl'
             />
           </div>
         ) : (
@@ -79,7 +80,7 @@ export const Education = () => {
               url='https://www.youtube.com/embed/FP6sQH6RdHs'
               display='initial'
               position='relative'
-              className='h-64 w-96  border-red-600  drop-shadow-2xl rounded-2xl'
+              className='h-full w-full  border-red-600  drop-shadow-2xl rounded-2xl'
             />
           </div>
         ) : (
