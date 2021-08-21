@@ -25,11 +25,11 @@ export const Nav = () => {
           <Link className={style} to='/projects'>
             <h3>Projects</h3>
           </Link>
-          <Link className={style} to='/resume'>
-            <h3>Resume</h3>
-          </Link>
           <Link className={style} to='/contact'>
             <h3>Contact Me</h3>
+          </Link>
+          <Link className={style} to='/resume'>
+            <h3>Resume</h3>
           </Link>
         </nav>
       </navbar>

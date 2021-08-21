@@ -11,7 +11,7 @@ import { Home } from "./components/Home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
-    <div className='h-screen w-screen bg-red-500 '>
+    <div className='h-screen w-screen  '>
       <Router>
         <div className='h-12 w-full bg-red-300 hover:shadow-2xl ring-red-500'>
           <Nav />

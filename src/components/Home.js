@@ -2,7 +2,7 @@ import React from "react";
 import profile from "./profile-modified.png";
 export const Home = () => {
   return (
-    <>
+    <div>
       <div className='h-2/6 w-full  pl-96 pt-12 flex flex-row  justify-start rounded-b-full bg-blue-200'>
         <div className='ml-20 text-size-2xl'>
           <div>I am a Programer.</div>
@@ -25,7 +25,7 @@ export const Home = () => {
         Computer Science where I can utilize my skills to add value to your
         company and have a great eperience.
       </div>
-    </>
+    </div>
   );
 };
 
