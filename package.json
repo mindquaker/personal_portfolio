@@ -1,5 +1,5 @@
 {
-  "name": "ashutosh_rana_personal_porfolio",
+  "name": "personal_porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,17 +8,20 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-iframe": "^1.8.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -43,5 +46,6 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
-  }
+  },
+  "homepage": "https://mindquaker.github.io/personal_portfolio"
 }
