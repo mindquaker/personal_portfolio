@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/personal_portfolio/static/css/main.7ad47f7a.chunk.css",
-    "main.js": "/personal_portfolio/static/js/main.342d6196.chunk.js",
-    "main.js.map": "/personal_portfolio/static/js/main.342d6196.chunk.js.map",
-    "runtime-main.js": "/personal_portfolio/static/js/runtime-main.82bc20a6.js",
-    "runtime-main.js.map": "/personal_portfolio/static/js/runtime-main.82bc20a6.js.map",
-    "static/js/2.7a050c45.chunk.js": "/personal_portfolio/static/js/2.7a050c45.chunk.js",
-    "static/js/2.7a050c45.chunk.js.map": "/personal_portfolio/static/js/2.7a050c45.chunk.js.map",
-    "static/js/3.a4a50300.chunk.js": "/personal_portfolio/static/js/3.a4a50300.chunk.js",
-    "static/js/3.a4a50300.chunk.js.map": "/personal_portfolio/static/js/3.a4a50300.chunk.js.map",
-    "index.html": "/personal_portfolio/index.html",
-    "static/css/main.7ad47f7a.chunk.css.map": "/personal_portfolio/static/css/main.7ad47f7a.chunk.css.map",
-    "static/js/2.7a050c45.chunk.js.LICENSE.txt": "/personal_portfolio/static/js/2.7a050c45.chunk.js.LICENSE.txt",
-    "static/media/profile-modified.80546285.png": "/personal_portfolio/static/media/profile-modified.80546285.png"
+    "main.css": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/css/main.7ad47f7a.chunk.css",
+    "main.js": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/main.342d6196.chunk.js",
+    "main.js.map": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/main.342d6196.chunk.js.map",
+    "runtime-main.js": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/runtime-main.2fa9d972.js",
+    "runtime-main.js.map": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/runtime-main.2fa9d972.js.map",
+    "static/js/2.7a050c45.chunk.js": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/2.7a050c45.chunk.js",
+    "static/js/2.7a050c45.chunk.js.map": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/2.7a050c45.chunk.js.map",
+    "static/js/3.a4a50300.chunk.js": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/3.a4a50300.chunk.js",
+    "static/js/3.a4a50300.chunk.js.map": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/3.a4a50300.chunk.js.map",
+    "index.html": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/index.html",
+    "static/css/main.7ad47f7a.chunk.css.map": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/css/main.7ad47f7a.chunk.css.map",
+    "static/js/2.7a050c45.chunk.js.LICENSE.txt": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/js/2.7a050c45.chunk.js.LICENSE.txt",
+    "static/media/profile-modified.80546285.png": "/mindquaker/personal_portfolio/blob/main/src/components/Home.js/static/media/profile-modified.80546285.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82bc20a6.js",
+    "static/js/runtime-main.2fa9d972.js",
     "static/js/2.7a050c45.chunk.js",
     "static/css/main.7ad47f7a.chunk.css",
     "static/js/main.342d6196.chunk.js"
