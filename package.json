@@ -48,5 +48,5 @@
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
   },
-  "homepage": "https://mindquaker.github.io/personal_portfolio"
+  "homepage": "https://mindquaker.github.io/personal_portfolio/home"
 }
