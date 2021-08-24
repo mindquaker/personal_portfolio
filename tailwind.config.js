@@ -32,7 +32,6 @@ module.exports = {
       16: "16px",
       20: "20px",
       24: "24px",
-      32: "32px",
     },
     color: {
       transparent: "transparent",
