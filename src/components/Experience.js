@@ -6,7 +6,7 @@ export const Experience = () => {
     <div>
       <div className='flex flex-row '>
         <div
-          className='h-72 w-96 ml-10 cursor-pointer border-t-2 border-l-2 border-red-600  drop-shadow-2xl 
+          className='h-72 w-96 ml-10 border-t-2 border-l-2 border-red-600  drop-shadow-2xl 
            bg-red-500 p-4 rounded-2xl  mt-12 shadow-2xl'>
           <h2 className='text-md font-bold text-white '>
             Frontend Developer at Up Cancer Org, Hartford, CT
@@ -36,7 +36,7 @@ export const Experience = () => {
         </div>
       </div>
       <div className='flex flex-row '>
-        <div className='h-60 w-96 ml-10  cursor-pointer border-t-2 border-l-2 border-red-600  drop-shadow-2xl bg-red-500 p-4 rounded-2xl  mt-20 shadow-2xl '>
+        <div className='h-60 w-96 ml-10   border-t-2 border-l-2 border-red-600  drop-shadow-2xl bg-red-500 p-4 rounded-2xl  mt-20 shadow-2xl '>
           <h2 className='text-md font-bold text-white '>
             Web Designing Intern at NJIT CDC, Newark, NJ.
           </h2>

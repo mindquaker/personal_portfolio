@@ -8,7 +8,11 @@ export const SkillsDiv = (props) => {
   );
 
   let image_element = (
-    <img src={image_link} className='h-20 w-20  border-2 rounded-full ml-36' />
+    <img
+      src={image_link}
+      alt='skill img '
+      className='h-20 w-20  border-2 rounded-full ml-36'
+    />
   );
   function displaySkillls() {
     return (
