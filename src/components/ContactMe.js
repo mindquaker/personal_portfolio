@@ -21,7 +21,7 @@ export const ContactMe = () => {
         <img
           src={linkedin}
           alt='linkedin'
-          className='mx-2 h-40 w-40 mt-10 rounded-md'
+          className='m-auto h-40 w-40 mt-10 rounded-md'
         />
       </div>
       <div className='text-md font-bold mt-10 text-white '>
@@ -32,7 +32,7 @@ export const ContactMe = () => {
         <img
           src={github}
           alt='github'
-          className='mx-2 h-40 w-40 mt-10 rounded-sm'
+          className='m-auto h-40 w-40 mt-10 rounded-sm'
         />
       </div>
       <br />
