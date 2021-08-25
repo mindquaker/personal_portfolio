@@ -1,3 +1,4 @@
+//eslint-disable
 import React from "react";
 import Iframe from "react-iframe";
 export const Resume = () => {

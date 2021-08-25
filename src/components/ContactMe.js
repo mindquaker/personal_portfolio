@@ -1,4 +1,4 @@
-import { lime } from "color-name";
+//eslint-disable
 import React from "react";
 import github from "./github_barcode.png";
 import linkedin from "./linkedin_barcode.png";

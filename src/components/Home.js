@@ -1,3 +1,4 @@
+//eslint-disable
 import React from "react";
 import profile from "./profile-modified.png";
 export const Home = () => {
