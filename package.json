@@ -4,10 +4,7 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
-<<<<<<< HEAD
     "craco-less": "^1.17.1",
-=======
->>>>>>> parent of 9bbfb7d1 (Updates)
     "@headlessui/react": "^1.4.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -51,5 +48,5 @@
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
   },
-  "homepage": "https://mindquaker.github.io/personal_portfolio"
+  "homepage": "https://github.com/mindquaker/personal_portfolio/blob/main/src/components/Home.js"
 }
