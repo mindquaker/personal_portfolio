@@ -21,8 +21,6 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -47,6 +45,5 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
-  },
-  "homepage": "https://github.com/mindquaker/personal_portfolio/blob/main/src/components/Home.js"
+  }
 }
