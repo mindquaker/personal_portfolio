@@ -51,10 +51,5 @@
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
   },
-<<<<<<< HEAD
-  "homepage": "https://mindquaker.github.io/personal_portfolio/home"
-}
-=======
   "homepage": "https://mindquaker.github.io/personal_portfolio"
 }
->>>>>>> parent of 9bbfb7d1 (Updates)
