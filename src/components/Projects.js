@@ -79,20 +79,20 @@ export const Projects = () => {
             Git/GitHub and deployed it to live server using Heroku.
           </li>
           <br />
-          <h2 className='text-md font-medium text-white '></h2>
-          <br />
-          <h2 className='text-md font-medium text-white '> </h2>
+          <div>
+            <h2 className='text-md font-medium text-white '> </h2>
 
-          <br />
-          <h2 className='text-md font-medium text-white '></h2>
-          <br />
-          <h2 className='text-md font-medium text-white '> </h2>
-          <br />
-          <h2 className='text-md font-medium text-white '> </h2>
-          <br />
-          <h2 className='text-md font-medium text-white '> </h2>
-          <br />
-          <h2 className='text-md font-medium text-white '> </h2>
+            <br />
+            <h2 className='text-md font-medium text-white '></h2>
+            <br />
+            <h2 className='text-md font-medium text-white '> </h2>
+            <br />
+            <h2 className='text-md font-medium text-white '> </h2>
+            <br />
+            <h2 className='text-md font-medium text-white '> </h2>
+            <br />
+            <h2 className='text-md font-medium text-white '> </h2>
+          </div>
         </div>
       </div>
       <div className='flex flex-row mb-10'>
