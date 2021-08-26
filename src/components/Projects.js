@@ -81,8 +81,8 @@ export const Projects = () => {
           <br />
           <div>
             <h2 className='text-md font-medium text-white '> </h2>
-
             <br />
+            // eslint-disable-next-line react/jsx-one-expression-per-line
             <h2 className='text-md font-medium text-white '></h2>
             <br />
             <h2 className='text-md font-medium text-white '> </h2>
